@@ -31,7 +31,7 @@ git clone https://github.com/yourname/yourname.github.io.git && cd yourname.gith
 Start editing the `_config.yml` file. Every option is well-explained by the comments, but I will still explain what to touch and what not to touch:
 - Make sure you set the `url` field to your blog's domain. Include the `https://`.
 - In the `social.links` field, the first URL you list will be the one readers are redirected to when they click your name.
-- To add an avatar from local assets, upload your image to the `assets/` folder. From there, you can link that image to the `avatar` field by just setting it to `/avatar/filename.jpg`.
+- To add an avatar from local assets, upload your image to the `assets/` folder. From there, you can link that image to the `avatar` field by just setting it to `/assets/filename.jpg`.
 
 # The first post
 To create a post, make a new file in the `_posts` folder.
