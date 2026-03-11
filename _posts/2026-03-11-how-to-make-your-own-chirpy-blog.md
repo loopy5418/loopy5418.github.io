@@ -5,8 +5,10 @@ categories: ["Generic Tutorials"]
 tags: ["Jekyll", "GitHub Pages"]
 author: loopy5418
 ---
+
 When you first entered TLog, you probably thought to yourself: "Wow, this website is so cool and fast.". <span class="text-muted">(or maybe im just going crazy)</span>
 If you did, you're in luck. Because you can make your own Chirpy blog within just 10 minutes!
+
 # Creating the repository
 To make our life a thousand times easier, we will be using a pre-made chirpy template. Head over to [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter).
 Since this is a template repository, we can easily use the repository to clone and modify it to our needs. Click the very big "Use this template" button, and then click "Create a new repository".
@@ -19,6 +21,7 @@ You do not need to change that many options when creating the repository. The on
 After that, your repository should be created after a few seconds. If you check the "Actions" tab, it will show Ruby's build and deployment stage in real time. When all stages are done, the plain template should be available to view at `yourname.github.io`.
 > **Nice Fact:** GitHub Pages will never limit your hosting or charge you for hosting. It is a thousand percent free.
 {: .prompt-tip }
+
 # The _config file
 Now comes the most important part. Configuring Chirpy will pick how it looks, functions, and gets the data about you.
 (Optional) Clone and cd into your repository by running: 
@@ -29,6 +32,7 @@ Start editing the `_config.yml` file. Every option is well-explained by the comm
 - Make sure you set the `url` field to your blog's domain. Include the `https://`.
 - In the `social.links` field, the first URL you list will be the one readers are redirected to when they click your name.
 - To add an avatar from local assets, upload your image to the `assets/` folder. From there, you can link that image to the `avatar` field by just setting it to `/avatar/filename.jpg`.
+
 # The first post
 To create a post, make a new file in the `_posts` folder.
 > The post file's name format should be `YYYY-MM-DD-post-name.md`.
@@ -50,6 +54,7 @@ git add .
 git commit -m "Customize chirpy and make first post"
 git push origin main
 ```
+
 # Conclusion
 After the building stages complete, your Chirpy site should be available to view and browse.
 You can also edit tabs in `_tabs`, like the about tab or adding more tabs.
