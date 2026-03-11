@@ -37,8 +37,7 @@ social:
   name: Loopy5418
   email: lo@5418.org # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/loopy5418 # change to your Twitter homepage
+    - https://5418.org # The first element serves as the copyright owner's link
     - https://github.com/loopy5418 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
