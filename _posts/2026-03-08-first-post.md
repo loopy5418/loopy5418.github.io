@@ -3,7 +3,7 @@ title: "First Post"
 date: 2026-03-08 18:10:00 +03:00
 categories: [Announcements]
 tags: [Personal]
-author: loopy5418
+author: loopy
 ---
 
 # First Post
