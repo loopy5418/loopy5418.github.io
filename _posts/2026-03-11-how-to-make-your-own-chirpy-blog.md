@@ -5,14 +5,6 @@ categories: ["Generic Tutorials"]
 tags: ["Jekyll", "GitHub Pages"]
 author: loopy5418
 ---
-## Table of Contents
-- [Creating the repository](#creating-the-repository)
-- [The _config file](#the-_config-file)
-- [The first post](#the-first-post)
-- [Conclusion](#conclusion)
-## Requirements
-- Git installed on your system (optional)
-***
 When you first entered TLog, you probably thought to yourself: "Wow, this website is so cool and fast.". <span class="text-muted">(or maybe im just going crazy)</span>
 If you did, you're in luck. Because you can make your own Chirpy blog within just 10 minutes!
 # Creating the repository
