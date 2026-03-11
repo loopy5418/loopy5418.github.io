@@ -36,7 +36,7 @@ Start editing the `_config.yml` file. Every option is well-explained by the comm
 # The first post
 To create a post, make a new file in the `_posts` folder.
 > The post file's name format should be `YYYY-MM-DD-post-name.md`.
-> So if the date is March 11^th^ 2026, the file name should be `2026-03-11-this-is-my-post.md`.
+> So if the date is March 11th 2026, the file name should be `2026-03-11-this-is-my-post.md`.
 {: .prompt-warning }
 Add the markdown table below to the very beginning of your file:
 ```md
