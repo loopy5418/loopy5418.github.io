@@ -3,7 +3,7 @@ title: "How to make your own chirpy blog in 10 minutes"
 date: 2026-03-11 02:50:00 +03:00
 categories: ["Generic Tutorials"]
 tags: ["Jekyll", "GitHub Pages"]
-author: loopy5418
+author: loopy
 ---
 
 When you first entered TLog, you probably thought to yourself: "Wow, this website is so cool and fast.". <span class="text-muted">(or maybe im just going crazy)</span>
