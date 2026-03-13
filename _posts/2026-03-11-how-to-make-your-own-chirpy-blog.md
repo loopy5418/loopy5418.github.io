@@ -6,7 +6,7 @@ tags: ["Jekyll", "GitHub Pages"]
 author: loopy
 ---
 
-When you first entered TLog, you probably thought to yourself: "Wow, this website is so cool and fast.". <span class="text-muted">(or maybe im just going crazy)</span>
+When you first entered TLog, you probably thought to yourself: "Wow, this website is so cool and fast.". <span class="text-muted">(or maybe I'm just going crazy)</span>
 If you did, you're in luck. Because you can make your own Chirpy blog within just 10 minutes!
 
 # Creating the repository
@@ -42,7 +42,7 @@ Add the markdown table below to the very beginning of your file:
 ```md
 ---
 title: "How to find huzz"
-date: 2026-03-11 10:50:00 +03:00 # Date Formst: YYYY-MM-DD HH-MM-SS +/-OFFSET
+date: 2026-03-11 10:50:00 +03:00 # Date Format: YYYY-MM-DD HH-MM-SS +/-OFFSET
 categories: ["Category 1"]
 tags: ["Tag 1", "Tag 2"]
 ---
@@ -58,7 +58,7 @@ git push origin main
 # Conclusion
 After the building stages complete, your Chirpy site should be available to view and browse.
 You can also edit tabs in `_tabs`, like the about tab or adding more tabs.
-Be sure to expetiement a lot and improve your site to your liking.
+Be sure to experiment a lot and improve your site to your liking.
 
 > That's it for this post. If you have any questions, or need help troubleshooting, please feel free to mail me at lo@5418.org, or by messaging me on Discord (@loopy5418)
 {: .prompt-info }
